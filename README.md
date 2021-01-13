@@ -2,7 +2,7 @@
 
 ### Files
 
-[Closing Prices Norebook](Code/lstm_stock_predictor_closing.ipynb)
+[Closing Prices Notebook](Code/lstm_stock_predictor_closing.ipynb)
 
 [FNG Notebook](Code/lstm_stock_predictor_fng.ipynb)
 
